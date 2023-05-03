@@ -11,5 +11,5 @@ export class MultiTableComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }
+
